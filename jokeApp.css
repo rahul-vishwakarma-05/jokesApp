@@ -12,6 +12,7 @@ body {
   display: grid;
   place-items: center;
   font-family: "Alkatra", cursive;
+  overflow:hidden;
 }
 
 .joke_outerBody {
@@ -123,4 +124,5 @@ body::after{
   background: green;
   color: white;
 }
+
 
